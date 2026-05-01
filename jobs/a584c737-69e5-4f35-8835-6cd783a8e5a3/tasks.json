@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 970567987096588289,
+      "job_id": "a584c737-69e5-4f35-8835-6cd783a8e5a3",
+      "query": "REPLICATE [Accounts] SELECT * FROM [Accounts]",
+      "is_active": true
+    },
+    {
+      "id": 970567987096588291,
+      "job_id": "a584c737-69e5-4f35-8835-6cd783a8e5a3",
+      "query": "REPLICATE [AttachableRefs] SELECT * FROM [AttachableRefs]",
+      "is_active": true
+    },
+    {
+      "id": 970567987096588293,
+      "job_id": "a584c737-69e5-4f35-8835-6cd783a8e5a3",
+      "query": "REPLICATE [Attachables] SELECT * FROM [Attachables]",
+      "is_active": true
+    },
+    {
+      "id": 970567987096588295,
+      "job_id": "a584c737-69e5-4f35-8835-6cd783a8e5a3",
+      "query": "REPLICATE [BillLineItems] SELECT * FROM [BillLineItems]",
+      "is_active": true
+    },
+    {
+      "id": 970567987096588297,
+      "job_id": "a584c737-69e5-4f35-8835-6cd783a8e5a3",
+      "query": "REPLICATE [BillLinkedTransactions] SELECT * FROM [BillLinkedTransactions]",
+      "is_active": true
+    }
+  ]
+}

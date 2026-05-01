@@ -1,0 +1,48 @@
+{
+  "id": "a584c737-69e5-4f35-8835-6cd783a8e5a3",
+  "name": "test123Jobn",
+  "pipeline_id": null,
+  "type": 1,
+  "source_connector": "qbonline123",
+  "destination_connector": "sqlite123",
+  "schedule": {
+    "enabled": false,
+    "cron": ""
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 1,
+    "verbosity": 2,
+    "destination_schema": "",
+    "automatic_job_retry": true
+  },
+  "replicate_options": {
+    "replicate_start_date": null,
+    "replicate_interval": 0,
+    "replicate_interval_unit": null,
+    "snapshot_size": null,
+    "skip_snapshot": null,
+    "alter_schema": false,
+    "drop_table": false,
+    "truncate_table_data": false,
+    "table_name_prefix": null,
+    "table_name_suffix": null,
+    "continue_on_error": false,
+    "deletion_behavior": null,
+    "insert_mode": null,
+    "auto_truncate_Strings": false,
+    "use_gmt_datetime": false,
+    "command_timeout": 0,
+    "additional_options": null
+  },
+  "events": {
+    "pre_job": null,
+    "post_job": null
+  },
+  "labels": []
+}

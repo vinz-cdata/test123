@@ -1,0 +1,17 @@
+{
+  "id": "9c11a91b-e4ff-4cc0-8440-c9ea3ab6da72",
+  "display_name": "qbonline123",
+  "name": "qbonline123",
+  "connector": {
+    "name": "CData QuickBooksOnline",
+    "version": "latest"
+  },
+  "properties": {},
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}
