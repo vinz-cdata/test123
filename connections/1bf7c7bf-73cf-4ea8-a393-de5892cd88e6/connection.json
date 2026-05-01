@@ -1,7 +1,7 @@
 {
-  "id": "9c11a91b-e4ff-4cc0-8440-c9ea3ab6da72",
-  "display_name": "qbonline123",
-  "name": "qbonline123",
+  "id": "1bf7c7bf-73cf-4ea8-a393-de5892cd88e6",
+  "display_name": "123quibonline",
+  "name": "123quibonline",
   "connector": {
     "name": "CData QuickBooksOnline",
     "version": "latest"

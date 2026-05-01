@@ -1,10 +1,10 @@
 {
-  "id": "a584c737-69e5-4f35-8835-6cd783a8e5a3",
-  "name": "test123Jobn",
+  "id": "ef92d749-5513-4827-97aa-187c41153fc4",
+  "name": "rthfghfgh",
   "pipeline_id": null,
   "type": 1,
-  "source_connector": "qbonline123",
-  "destination_connector": "sqlite123",
+  "source_connector": "123quibonline",
+  "destination_connector": "sqlite2223546",
   "schedule": {
     "enabled": false,
     "cron": ""

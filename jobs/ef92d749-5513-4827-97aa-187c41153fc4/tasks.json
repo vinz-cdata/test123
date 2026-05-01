@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 970583883672326145,
+      "job_id": "ef92d749-5513-4827-97aa-187c41153fc4",
+      "query": "REPLICATE [Accounts] SELECT * FROM [Accounts]",
+      "is_active": true
+    },
+    {
+      "id": 970583883672326147,
+      "job_id": "ef92d749-5513-4827-97aa-187c41153fc4",
+      "query": "REPLICATE [AttachableRefs] SELECT * FROM [AttachableRefs]",
+      "is_active": true
+    },
+    {
+      "id": 970583883672326149,
+      "job_id": "ef92d749-5513-4827-97aa-187c41153fc4",
+      "query": "REPLICATE [Attachables] SELECT * FROM [Attachables]",
+      "is_active": true
+    }
+  ]
+}
